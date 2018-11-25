@@ -1,7 +1,5 @@
 # spring-
 taiji
-# spring-
-taiji
 
 ### **Spring项目上周总结：**
 
