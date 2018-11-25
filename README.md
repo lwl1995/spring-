@@ -1,4 +1,2 @@
 # spring-
 taiji
-
-Pers
